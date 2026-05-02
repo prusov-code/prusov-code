@@ -18,7 +18,7 @@ Most repos are private, you can check out my projects at my website [prusov-code
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="60" />        
 </div>
           
-
+![GitHub Snake Animation](https://raw.githubusercontent.com/prusov-code/prusov-code/output/github-snake.gif)
           
           
           
